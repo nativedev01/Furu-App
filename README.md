@@ -1,7 +1,7 @@
 # Furu-App
 A React Native app
 
-# first change the branch main to master than 
+# First change the branch main to master then 
  
  
 # Run the app on mobile and web
